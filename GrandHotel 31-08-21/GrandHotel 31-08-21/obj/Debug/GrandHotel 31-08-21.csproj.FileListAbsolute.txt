@@ -1,0 +1,23 @@
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\bin\Debug\GrandHotel 31-08-21.exe.config
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\bin\Debug\GrandHotel 31-08-21.exe
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\bin\Debug\GrandHotel 31-08-21.pdb
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel 31-08-21.csprojAssemblyReference.cache
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmAddHousKeepingSchedule.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmCheckIn.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmCheckOut.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmCleaningRoom.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmConfirmationExit.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmLogin.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmMasterEmployee.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmMasterItem.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmMasterRoom.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmMasterRoomType.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmRequestAdditionalItem.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.FrmReservation.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.MainFrm.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.Properties.Resources.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel_31_08_21.Splash.resources
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel 31-08-21.csproj.GenerateResource.cache
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel 31-08-21.csproj.CoreCompileInputs.cache
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel 31-08-21.exe
+C:\Users\SISWA\source\repos\GrandHotel 31-08-21\GrandHotel 31-08-21\obj\Debug\GrandHotel 31-08-21.pdb
